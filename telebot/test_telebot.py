@@ -2,7 +2,7 @@ import telebot  #pyTelegramBotApi
 import sqlite3
 import sys
 
-token = '586598658:AAEHCe-ghtjOwuIciDkKoPwjyFCvjy8AS9k'
+token = '5*************546546'
 
 bot = telebot.TeleBot(token)
 
